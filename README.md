@@ -29,6 +29,8 @@ Fotoapparat
 <img src="/screenshot.gif" width="200" />
 
 
+
+
 ## How it works
 
 ### Step One (optional)
